@@ -1,4 +1,4 @@
 # Commit-Message-Validator
 testing the validator
 
-Validator working well, git push with valid commit types are acknowledged.  
+Validator working well, only valid commit types are acknowledged and forwarded.  
