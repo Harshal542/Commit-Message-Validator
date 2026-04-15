@@ -34,5 +34,5 @@ def validate_commit_message(file_path):
         messagebox.showerror("Git Hook Blocked", error_msg)
         sys.exit(1) # 1 means block the commit
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     validate_commit_message(sys.argv[1])
