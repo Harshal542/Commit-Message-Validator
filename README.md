@@ -15,4 +15,3 @@ A Git `commit-msg` hook built in Python that enforces the Conventional Commits s
 * `test:` (Unit tests)
 * `chore:` (Maintenance)
 
-xyz
